@@ -56,5 +56,9 @@ def myNetwork():
     net.stop()
     if __name__ == '__main__':
     setLogLevel( 'info' )
-    myNetwork()
-~~~
+    myNetwork()~~~
+
+
+執行之後開啟終端機 <br> 
+mininet> xterm h1 h2<br>
+(會開啟兩個終端)<br>
