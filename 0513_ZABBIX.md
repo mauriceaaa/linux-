@@ -1,4 +1,4 @@
-安裝zabbix
+<h1>安裝zabbix</h1>
 <br>
  <br>
 Centos 7搭建Zabbix 4.0监控系统-：努力变好-51CTO博客<br>
