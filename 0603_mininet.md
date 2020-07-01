@@ -56,7 +56,7 @@ def myNetwork():
     net.stop()
     if __name__ == '__main__':
     setLogLevel( 'info' )
-    myNetwork()~~~
+    myNetwork()
 
 
 執行之後開啟終端機 <br> 
