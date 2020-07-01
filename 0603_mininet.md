@@ -1,3 +1,4 @@
+[參考資料:柯志亨老師的個人網站](http://csie.nqu.edu.tw/smallko/sdn/lvs_haproxy.htm)
 - 準備一個 ubuntu 環境<br>
 - 使用 python 創建 mininet<br>
 <br>
@@ -119,5 +120,7 @@ mininet> xterm h1 h2<br>
     h4.cmd("cd /var/www/html; echo h4 > a.htm ; python -m SimpleHTTPServer 80 &")
     CLI(net)
     net.stop()
-    ~~~
+    
+
+
 
